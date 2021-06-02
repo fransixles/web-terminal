@@ -1,5 +1,5 @@
 {
-  "name": "web-terminal-forked",
+  "name": "web-terminal",
   "description": "Web-Terminal is a terminal server that provides remote CLI via standard web browser and HTTP protocol.",
   "version": "0.0.1",
   "author": "",
