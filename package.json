@@ -2,11 +2,11 @@
   "name": "web-terminal-forked",
   "description": "Web-Terminal is a terminal server that provides remote CLI via standard web browser and HTTP protocol.",
   "version": "0.0.1",
-  "author": "Boyan Rabchev <boyan@rabchev.com>",
+  "author": "",
   "contributors": [
     {
-      "name": "Boyan Rabchev",
-      "email": "boyan@rabchev.com"
+      "name": "",
+      "email": ""
     }
   ],
   "config": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rabchev/web-terminal.git"
+    "url": "https://github.com/d3centr0z/web-terminal.git"
   },
   "main": "index",
   "preferGlobal": "false",
@@ -62,12 +62,12 @@
     "eject": "react-scripts eject"
   },
   "bugs": {
-    "email": "boyan@rabchev.com",
-    "url": "https://github.com/rabchev/web-terminal/issues"
+    "email": "",
+    "url": "https://github.com/d3centr0z/web-terminal/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "http://github.com/rabchev/web-terminal/blob/master/LICENSE"
+    "url": "https://github.com/d3centr0z/web-terminal.git"
   },
   "engines": {
     "node": ">=0.10"
